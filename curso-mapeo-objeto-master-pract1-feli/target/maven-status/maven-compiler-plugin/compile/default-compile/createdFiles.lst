@@ -1,0 +1,17 @@
+mx\uacm\curso\daos\ArticuloDAOImpl.class
+mx\uacm\curso\daos\CategoriaDAO.class
+mx\uacm\curso\EjemploRefexiones.class
+mx\uacm\curso\EjemploPersist.class
+mx\uacm\curso\IntroJPA.class
+mx\uacm\curso\daos\ArticuloDAO.class
+mx\uacm\curso\EjericioEstados.class
+mx\uacm\curso\entidades\Articulo.class
+mx\uacm\curso\daos\UsuarioDAOImpl.class
+mx\uacm\curso\daos\UsuarioDAO.class
+mx\uacm\curso\EjemploDAO.class
+mx\uacm\curso\entidades\Categoria.class
+mx\uacm\curso\daos\GenericDAOImpl.class
+mx\uacm\curso\daos\CategoriaDAOImpl.class
+mx\uacm\curso\entidades\Usuario.class
+mx\uacm\curso\EjercicioUsuario.class
+mx\uacm\curso\daos\GenericDAO.class
